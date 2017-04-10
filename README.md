@@ -7,3 +7,11 @@
 
 <h2>History</h2>
 <p>In Murasaki Shikibu's 11th-century diary Murasaki Shikibu Nikki, she writes of people eating rice balls.[2][3] At that time, onigiri were called tonjiki and often consumed at outdoor picnic lunches.[4] Other writings, dating back as far as the seventeenth century, state that many samurai stored rice balls wrapped in bamboo sheath as a quick lunchtime meal during war, but the origins of onigiri are much earlier even than Lady Murasaki. Before the use of chopsticks became widespread, in the Nara period, rice was often rolled into a small ball so that it could be easily picked up. In the Heian period, rice was also made into small rectangular shapes known as tonjiki so that they could be piled onto a plate and easily eaten.From the Kamakura period to the early Edo period, onigiri was used as a quick meal. This made sense as cooks simply had to think about making enough onigiri and did not have to concern themselves with serving. These onigiri were simply balls of rice flavored with salt. Nori did not become widely available until the Genroku era in the mid-Edo period, when the farming of nori and fashioning it into sheets became widespread.</p>
+
+<h2>Rice</h2>
+<p>Usually, onigiri is made with boiled white rice, though it is sometimes made with different varieties of cooked rice, such as:</p>
+<li>
+  <ul>o-kowa or kowa-meshi (sekihan): glutinous rice cooked/steamed with vegetables (red beans);</ul>
+  <ul>maze-gohan (lit. "mixed rice"): cooked rice mixed with preferred ingredients;</ul>
+  <ul>fried rice.</ul>
+</li>
